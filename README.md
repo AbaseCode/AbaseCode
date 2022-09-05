@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on business
 - 📫 iJonSo123@Gmail.com
 
-I'm Jon, a full-stack developer. 
+I'm Jon, a developer. 
 My homepage is https://jon.wiki.
 AbaseCode is my code club. Mainly open source project development.
 <!---
